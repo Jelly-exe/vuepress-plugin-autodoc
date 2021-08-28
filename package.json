@@ -13,8 +13,13 @@
     "autodoc",
     "api",
     "jsdoc",
-    "documentation"
+    "documentation",
+    "vuepress-plugin"
   ],
+  "main": "src/index.js",
+  "files": [
+    "src"
+  ]
   "ignore": [
     "**/.*",
     "node_modules",
